@@ -1,0 +1,71 @@
+{
+  "videos": [
+    {
+      "id": "0097",
+      "caption": "Triumph TIGER 900",
+      "imageURL": "https://mcn-images.bauersecure.com/wp-images/225328/2024-triumph-tiger-900-rally-pro-review-01.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/DWHVdj_adic"
+    },
+    {
+      "id": "f2dd",
+      "caption": "Kawasaki Ninja H2R",
+      "imageURL": "https://i.pinimg.com/736x/e0/a2/85/e0a285c0fa4ad41a99bcfbd792ee6c67.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/j8VJXb2LoMM"
+    },
+    {
+      "id": "6215",
+      "caption": "Ducati Panigale V4 R",
+      "imageURL": "https://data1.ibtimes.co.in/en/full/703085/ducati-panigale-v4-r.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/UAWLKLgk5g4"
+    },
+    {
+      "id": "641d",
+      "caption": "BMW R  1250 GS",
+      "imageURL": "https://static.autox.com/uploads/2023/07/2023-BMW-R-1250-GS.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/9I102daXfwg"
+    },
+    {
+      "id": "dc15",
+      "caption": "Harley Davidson X440",
+      "imageURL": "https://bikeindia.in/wp-content/uploads/2023/07/Harley-Davidson-X440-WEB13-1024x682.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/CQsAfKSzaJI"
+    }
+  ],
+  "categories": [
+    {
+      "id": "7dc9",
+      "categoryName": "Sports",
+      "allVideos": []
+    },
+    {
+      "id": "7fb4",
+      "categoryName": "Adventure",
+      "allVideos": []
+    },
+    {
+      "id": "3cc4",
+      "categoryName": "Cruiser",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "96b5",
+      "caption": "Triumph TIGER 900",
+      "youtubeLink": "https://www.youtube.com/embed/DWHVdj_adic",
+      "timeStamp": "03/12/2024, 12:27:07 AM"
+    },
+    {
+      "id": "896a",
+      "caption": "Kawasaki Ninja H2R",
+      "youtubeLink": "https://www.youtube.com/embed/j8VJXb2LoMM",
+      "timeStamp": "03/12/2024, 01:29:23 AM"
+    },
+    {
+      "id": "ee38",
+      "caption": "Ducati Panigale V4 R",
+      "youtubeLink": "https://www.youtube.com/embed/UAWLKLgk5g4",
+      "timeStamp": "03/12/2024, 01:29:29 AM"
+    }
+  ]
+}
